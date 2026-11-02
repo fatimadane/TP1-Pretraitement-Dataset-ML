@@ -1,4 +1,4 @@
-# TP1 - Pretraitement d'un Dataset en ML
+# TP1 - Pretraitement d'un Dataset en Machine Learning
 
 ## Objectif du TP
 
